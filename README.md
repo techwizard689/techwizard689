@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 😁 I'm not looking for any particular help, I just want to further my knowledge.
 
-☁ Ask me about the weather LOL!
+☁ Ask me about the weather :D
 
 🤗 You can reach me through opening a discussion in my repository and I will give you relevant social media. :)
