@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ☁ Ask me about the weather :D
 
-🤗 You can reach me through opening a **discussion** in my repository and I will give you relevant social media. :)
+🤗 You can ask questions about stuff you are curious about through **discussions** and hopefully we can all help each other to find the answers. :)
