@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm techwizard 👋
 
 <!--
 **techwizard689/techwizard689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-⚡ Fun fact: ...
 -->
+## 💻 I'm currently working on furthering my learning ability and education in the Cybersecrutiy, OffSec and Computing field.
+## 🧠 I would love to collaborate with anyone who is willing to let me learn from them, alongside them or just on general projects.
+## 😁 I'm not looking for any particular help, I just want to further my knowledge.
+## ☁ Ask me about the weather LOL!
+## 🤗 You can reach me through opening a discussion in my repository and I will give you relevant social media. :)
