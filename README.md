@@ -1,4 +1,4 @@
-## Hi there, I'm techwizard 👋
+## Hi there, I'm Oliver 👋
 
 <!--
 **techwizard689/techwizard689** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
