@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -⚡ Fun fact: ...
 -->
-💻 I'm currently working on furthering my learning ability and education in the **Cybersecrutiy**, **InfoSec** and **Computing field**.
+💻 I'm currently a Student & working on furthering my learning ability and education in the **Cybersecrutiy**, **InfoSec** and **Computing field**.
 
 🧠 I would love to collaborate with anyone who is willing to **let me learn from them**, **alongside them or just on general projects**.
 
