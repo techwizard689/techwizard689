@@ -13,21 +13,16 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media.tenor.com/ndrGxEeXsGkAAAAM/pepe-spin.gif"  />
+
+###
+
 <img src="https://raw.githubusercontent.com/techwizard689/techwizard689/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/ndrGxEeXsGkAAAAM/pepe-spin.gif"  />
 </div>
 
 ###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=techwizard689&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=techwizard689&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=techwizard689&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=techwizard689&icon=0&color=0)](https://visitcount.itsvg.in)
 
