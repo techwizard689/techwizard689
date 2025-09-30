@@ -7,7 +7,7 @@
 <h4 align="center"> 🧠 Would love to collaborate with anyone who is willing to let me learn from them, alongside them or just on general projects </h4> 
 <h4 align="center"> 😁 I just want to make projects & be involved in things that benefit the wider tech community </h4>
 <h4 align="center"> 👍 I LOVE open source :D </h4>
-<h4 align="center"> 🤗 I want to be able to benefit the wider tech community as a whole with my projects and I strive towards that goal every single day :) </h4>
+<h4 align="center"> 🤗 I want to be able to benefit people with my OPEN SOURCE projects and I strive towards that goal every single day :) </h4>
 
 <h2 align="left">Socials 💻</h2>
 
