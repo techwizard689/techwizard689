@@ -1,5 +1,9 @@
 # 💫 About Me:
-💻 **I'm currently a Student & working on expanding my knowledge in the Cybersecrutiy, InfoSec and Computing field**<br><br>🧠 **I would love to collaborate with anyone who is willing to let me learn from them, alongside them or just on general projects**<br><br>😁 **I'm not looking for any particular help, I just want to make projects that can benefit myself and the community**<br><br>👍 **I LOVE open source :D**<br><br>🤗 **I want to be able to benefit the wider tech community as a whole and I strive towards that goal every single day :)**
+<h3 align="center"> I'm currently a Student & working on expanding my knowledge in the Cybersecrutiy, InfoSec and Computing field </h3>
+<h4 align="center"> 🧠 I would love to collaborate with anyone who is willing to let me learn from them, alongside them or just on general projects </h4> 
+<h4 align="center"> 😁 I'm not looking for any particular help, I just want to make projects that can benefit myself and the community </h4>
+<h4 align="center"> 👍 I LOVE open source :D </h4>
+<h4 align="center"> 🤗 I want to be able to benefit the wider tech community as a whole and I strive towards that goal every single day :) </h4>
 
 <h2 align="left">Socials 💻</h2>
 
