@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=techwizard689.techwizard689&left_color=darkslategrey&right_color=cornflowerblue"  />
+</div>
+
 # 💫 About Me:
 <h3 align="center"> Student inside of and expanding their knowledge in the Cybersecrutiy, InfoSec and Computing field </h3>
 <h4 align="center"> 🧠 Would love to collaborate with anyone who is willing to let me learn from them, alongside them or just on general projects </h4> 
