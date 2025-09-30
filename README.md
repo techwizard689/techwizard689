@@ -53,8 +53,8 @@
 <p align="center">Please consider supporting me by buying a Coffee 🍵 to fund future projects or to give me a caffeine rejuvenation, Thank you!</p>
 
 <div align="center">
-  <a href="https://ko-fi.com/techwizard689" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=plastic" height="20" alt="ko-fi logo" />
+  <a href="https://www.ko-fi.com/techwizard689">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
   </a>
 </div>
 
