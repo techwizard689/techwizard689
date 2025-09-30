@@ -4,13 +4,13 @@
 <h2 align="left">Socials 💻</h2>
 
 <div align="left">
-  <a href="https://bsky.app/profile/omannion.com" target="_blank">
+  <a href="https://bsky.app/profile/omannion.com">
     <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=plastic" height="20" alt="bluesky logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/olivermannion7" target="_blank">
+  <a href="https://www.linkedin.com/in/olivermannion7">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
   </a>
- <a href="https://infosec.exchange/@techwizard689" target="_blank">
+ <a href="https://infosec.exchange/@techwizard689">
     <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white" height="20"  />
  </a>
  <a href="https://tryhackme.com/p/olivermannion478">
