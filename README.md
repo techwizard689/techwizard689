@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://ko-fi.com/techwizard689" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=plastic" height="40" alt="ko-fi logo"  />
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=plastic" height="30" alt="ko-fi logo" />
   </a>
 </div>
 
