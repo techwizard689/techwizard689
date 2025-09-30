@@ -10,12 +10,16 @@
   <a href="https://www.linkedin.com/in/olivermannion7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
   </a>
- <a href="https://tryhackme.com/p/olivermannion478" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=plastic" height="20" alt="tryhackme logo"  />
-  </a>
  <a href="https://infosec.exchange/@techwizard689" target="_blank">
     <img src="https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white" height="20"  />
  </a>
+ <a href="https://tryhackme.com/p/olivermannion478" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=plastic" height="20" alt="tryhackme logo"  />
+  </a>
+  <a href="mailto:enquiries@business.omannion.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
+  </a>
+</div>
 </div>
 
 <h2 align="left">Support 💗</h2>
