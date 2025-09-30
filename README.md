@@ -4,7 +4,9 @@
 <p align="center">Please consider supporting by buying me a Coffee to support future projects, Thank you!</p>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=plastic" height="80" alt="ko-fi logo"  />
+  <a href="https://ko-fi.com/techwizard689" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=plastic" height="40" alt="ko-fi logo"  />
+  </a>
 </div>
 
 <div align="center">
