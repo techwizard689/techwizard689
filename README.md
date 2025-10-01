@@ -73,9 +73,9 @@
 
 </div>
 
-<div align="center">
-  
 ## Stats 🕵️‍♂️
+
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=techwizard689&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=techwizard689&theme=transparent&hide_border=true)
