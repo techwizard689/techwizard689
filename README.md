@@ -9,12 +9,12 @@
 <h4 align="center"> 👍 I LOVE open source :D </h4>
 <h4 align="center"> 🤗 I want to be able to benefit people with my OPEN SOURCE projects and I strive towards that goal every single day :) </h4>
 
-<h2 align="left">Socials 💻</h2>
+## Socials 💻
 
 [![BlueSky](https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white)](https://bsky.app/profile/omannion.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olivermannion7) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://infosec.exchange/@techwizard689) [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=flat)](https://tryhackme.com/p/techwizard689)
 </div>
 
-<h2 align="left">Tools 🛠️</h2>
+## Tools 🛠️
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="29" alt="python logo"  />
@@ -56,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="29" alt="docker logo"  />
 </div>
 
-<h2 align="left">Support 💗</h2>
+## Support 💗
 
   <p align="center">Please consider supporting me by buying a Coffee ☕️ to fund future projects or to give me a caffeine rejuvenation, Thank you!</p>
 
@@ -74,6 +74,8 @@
 </div>
 
 <div align="center">
+  
+## Stats 🕵️‍♂️
 
 ![](https://github-readme-stats.vercel.app/api?username=techwizard689&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=techwizard689&theme=transparent&hide_border=true)
