@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-<h3 align="center"> Student inside of and expanding their knowledge in the Cybersecrutiy, InfoSec and Computing field </h3>
+<h3 align="center"> Student inside of and expanding their knowledge in Cybersecrutiy, InfoSec and Computing </h3>
 <h4 align="center"> 🧠 Would love to collaborate with anyone who is willing to let me learn from them, alongside them or just on general projects </h4> 
 <h4 align="center"> 😁 I just want to make projects & be involved in things that benefit the wider tech community </h4>
 <h4 align="center"> 👍 I LOVE open source :D </h4>
