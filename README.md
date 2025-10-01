@@ -58,7 +58,7 @@
 
 <h2 align="left">Support 💗</h2>
 
-<p align="center">Please consider supporting me by buying a Coffee 🍵 to fund future projects or to give me a caffeine rejuvenation, Thank you!</p>
+  <p align="center">Please consider supporting me by buying a Coffee ☕️ to fund future projects or to give me a caffeine rejuvenation, Thank you!</p>
 
 <div align="center">
   <a href="https://www.ko-fi.com/techwizard689">
