@@ -61,7 +61,7 @@
   <p align="center">Please consider supporting me by buying a Coffee ☕️ to fund future projects or to give me a caffeine rejuvenation, Thank you!</p>
 
 <div align="center">
-  <a href="https://www.ko-fi.com/techwizard689">
+  <a href="https://www.ko-fi.com/w1z4rd">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
   </a>
 </div>
