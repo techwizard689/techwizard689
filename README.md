@@ -3,11 +3,11 @@
 </div>
 
 # 💫 About Me:
-<h3 align="center"> Student inside of and expanding knowledge in Cybersecrutiy, InfoSec and Computing </h3>
+<h3 align="center"> Cybersecurity, Computer Science & InfoSec </h3>
 <h4 align="center"> 🧠 Would love to collaborate with anyone who is willing to let me learn from them on general projects </h4> 
-<h4 align="center"> 😁 I just want to make projects & be involved in things that benefit the wider tech community </h4>
+<h4 align="center"> 😁 I just want to make projects & be involved in things that benefit the tech community </h4>
 <h4 align="center"> 👍 I LOVE the Matrix trilogy </h4>
-<h4 align="center"> 🤗 I want to be able to benefit people with my OPEN SOURCE projects and I strive towards that goal every single day :) </h4>
+<h4 align="center"> 🤗 I want to be able to benefit people with open source projects & I try to move towards that goal every single day :) </h4>
 
 ## Socials 💻
 
